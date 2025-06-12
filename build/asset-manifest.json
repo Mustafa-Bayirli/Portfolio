@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f05ddc0d.css",
+    "main.js": "/static/js/main.1d0fc9dd.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/RoboticArm.png": "/static/media/RoboticArm.1c881b06bb5ac1eb2e67.png",
+    "static/media/UART.png": "/static/media/UART.20a72f280cec95f31482.png",
+    "static/media/eHotels.png": "/static/media/eHotels.162a61e4be9d4f4dc221.png",
+    "static/media/IDP.png": "/static/media/IDP.52682f6fcfecec193dce.png",
+    "static/media/USAR.png": "/static/media/USAR.05f50d6c644b3400ff74.png",
+    "static/media/ServiceNovigrad.png": "/static/media/ServiceNovigrad.d707b2c6d2c3d5d4194b.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/MustafaBayirli_CV.pdf": "/static/media/MustafaBayirli_CV.7d3c21408d5e2c179264.pdf",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/static/media/logo.857ac70f4bf7cf92b1a5.png",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/VerilogIcon.svg": "/static/media/VerilogIcon.f550579cf38103f3ed0a51f895b4210a.svg",
+    "static/media/CIcon.svg": "/static/media/CIcon.d5f58e85d5f45f02e72b803df495b43e.svg",
+    "static/media/Systemverilog.svg": "/static/media/Systemverilog.fd47b9feab3928666e9d7e010d8548dd.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "static/media/VHDLIcon.svg": "/static/media/VHDLIcon.51ddcd74a1dfaf1971a6181d00f58860.svg",
+    "main.f05ddc0d.css.map": "/static/css/main.f05ddc0d.css.map",
+    "main.1d0fc9dd.js.map": "/static/js/main.1d0fc9dd.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f05ddc0d.css",
+    "static/js/main.1d0fc9dd.js"
+  ]
+}
