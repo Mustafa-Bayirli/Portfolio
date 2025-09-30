@@ -34,6 +34,8 @@ function Projects() {
                           remote control, providing real-time video and audio communication. Equipped with environmental sensors and advanced mapping 
                           capabilities, it collects critical data while ensuring the safety of both rescuers and survivors. The robot's compact design allows it
                           to access confined spaces, making it an invaluable tool for emergency response teams."
+
+              ghLink="https://github.com/Mustafa-Bayirli/Emergency-Urban-Search_Rescue-Robot"
     
               techStack="Python, HTML, CSS, JavaScript, React, NodeJS, ROS2, OpenCV, Bootstrap, AWS, Raspberry Pi 4, 
                           HC-SR04 Ultrasonic Sensors, DHT11 Sensor, 10 DOF Module, RPLIDAR A3"
@@ -51,7 +53,6 @@ function Projects() {
                            controls adaptable for both hand and nose use. Key innovations include a mobile base with adjustable speed, an extendable arm reaching up
                            to 4 feet, and integrated real-time video feedback. Delivered within a $500 budget, the project successfully met client needs, 
                            providing a cost-effective, accessible solution that significantly improves daily living activities for users."
-  
 
               techStack="HTML, CSS, JavaScript, Stepper Motors, DC Motors, Ball Screw Linear Actuator, Aluminum extrusions, PVC, steel rods, Git"
 
@@ -62,14 +63,14 @@ function Projects() {
             <ProjectCard
               imgPath={UART}
               isBlog={false}
-              title="FPGA UART"
+              title="FPGA UART Design"
               description="This project involved the design and implementation of a UART system to control traffic lights, executed as part of the Digital
                            Systems II coursework. Utilizing structural VHDL and Finite State Machine (FSM) techniques, the development included a traffic light 
                            controller, signal conversion circuits, and shift registers. A key feature of the project was the UART Transmitter, 
                            which effectively transmitted ASCII characters to an Altera DE2-115 FPGA. The system underwent extensive testing using 
                            Quartus II software, which demonstrated its capability for effective real-time debugging and communication."
 
-              ghLink="https://github.com/MustafaBayirli/FPGA-UART" 
+              ghLink="https://github.com/Mustafa-Bayirli/FPGA-UART_Design" 
               
               techStack="VHDL, Altera DE2-115 FPGA, Quartus II Software, Breadboard and MAX232, Git"
               
@@ -164,7 +165,7 @@ function Projects() {
                            and rules, and generating detailed reports displaying client account balances, updated in real-time after each transaction."
               
 
-              ghLink="https://github.com/MustafaBayirli/Bank-System"
+              ghLink="https://github.com/Mustafa-Bayirli/Bank-System"
 
               techStack="C, C++, TypeScript, Git"
               
@@ -177,9 +178,11 @@ function Projects() {
             <ProjectCard
               imgPath={ServiceNovigrad}
               isBlog={false}
-              title="Service Novigrad"
+              title="Service Novigrad Android Application"
               description="The Service Navigrad aimed to create an Android application that provides government services to residents of the fictional province of Novigrad. The application is similar to real-life services like Service Ontario or Services Québec, offering functionalities such as obtaining a driver’s license, health card, or photo ID."
               ghLink="https://github.com/MustafaBayirli/Service-Novigrad"
+
+              ghLink="https://github.com/Mustafa-Bayirli/Service-Novigrad_Android-Application"
 
               techStack= "Java, SQLite, Git, Android Studio,"
             
